@@ -15,3 +15,9 @@ He creado una página web sencilla sobre La Liga. En ella presento información 
 - partidos.html: tabla con resultados de partidos.
 - css/style.css: estilos y diseño de las páginas.
 - js/script.js: función de JavaScript.
+
+## Instrucciones para abrir index.html
+1. Descargar o clonar el repositorio.
+2. Abrir la carpeta del proyecto.
+3. Hacer doble clic en el archivo index.html.
+4. La página se abrirá en el navegador.
